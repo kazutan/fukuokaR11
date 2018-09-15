@@ -1,18 +1,3 @@
-## ----setup, include=FALSE------------------------------------------------
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
-
-## ---- eval=FALSE---------------------------------------------------------
-## install.packages("ggplot2")
-
-## ---- eval=FALSE---------------------------------------------------------
-## devtools::install_github("tidyverse/ggplot2")
-
-## ---- eval=FALSE---------------------------------------------------------
-## install.packages("tidyverse")
-
-## ---- eval=FALSE---------------------------------------------------------
-## library(ggplot2)
 
 ## ------------------------------------------------------------------------
 library(tidyverse)
