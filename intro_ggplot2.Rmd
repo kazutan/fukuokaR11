@@ -5,6 +5,7 @@ author: "kazutan"
 date: "2018/9/15"
 output:
   html_document:
+    self_contained: false
     toc: true
     toc_float:
       collapsed: false
@@ -14,8 +15,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
-
-# はじめに
 
 # about ggplot2
 
