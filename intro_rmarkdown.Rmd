@@ -11,11 +11,13 @@ output:
     theme: sky
     center: true
     css: for-revealjs-sky.css
+    self_contained: false
   html_document:
     toc: true
     toc_depth: 1
     toc_float:
       collapsed: false
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
