@@ -1,5 +1,5 @@
 ---
-title: "R Markdown入門"
+title: "R Markdown再入門"
 subtitle: "fukuoka.R #11"
 author: "kazutan"
 date: "2018/9/15"
